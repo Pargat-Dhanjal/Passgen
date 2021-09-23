@@ -15,13 +15,13 @@ Click [here](https://github.com/exercism/java/blob/main/docs/INSTALLATION.md) to
 
 **Clone**
 ```bash
-$ git clone https://github.com/Pargat-Dhanjal/Passgen.git
+git clone https://github.com/Pargat-Dhanjal/Passgen.git
 ```
 ## Usage
 
 ```bash
-$ cd Passgen
-$ java passgen.java
+cd Passgen
+java passgen.java
 ```
 
 
